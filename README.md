@@ -6,6 +6,8 @@ A secure, GDPR-compliant web application designed to automate the generation of 
 
 Operational efficiency and data privacy are at the core of this project. Previously, creating table cards was a manual process prone to human error. This solution parses complex guest data—including dietary requirements and interval timings—and intelligently formats it into specific templates.
 
+[**🚀 Launch Live Website**](https://saowns.pythonanywhere.com/login)
+
 **Key Capabilities:**
 * **Instant Generation:** Converts hundreds of reservations into printed cards in seconds.
 * **Smart Categorization:** Automatically sorts items into Starters, Mains, Sides, Desserts, and Drinks.
